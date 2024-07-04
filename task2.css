@@ -1,0 +1,223 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#one{
+
+}
+#nav{
+    align-items: end;
+    height: 10px;
+    width: 30;
+}
+#two{
+    height: auto;
+    width: 100%;
+    display: flex;
+   /* flex-direction: row; */
+    margin-top: 50px;
+    margin-bottom: 50px;
+    justify-content: space-around !important;
+}
+
+.ho{
+  
+    /* text-align: center; */
+    /* margin-left: 200px; */
+    font-size: 30px;
+}
+.hi{
+    /* margin-left: 380px; */
+}
+
+#bu{
+    background-color: black;
+    color: aliceblue;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 100px;
+}
+img{
+    height: auto;
+    width: 600px;
+
+}
+#three{
+
+    display: flex;
+    flex-direction: row;
+}
+.rowa{
+    height: 100px;
+    text-align: center;
+    padding: 70px;
+   color: aliceblue;
+    background-color: black;
+}
+.rowb{
+    height: 100px;
+    text-align: center;
+    padding: 70px;
+   color: aliceblue;
+    background-color: rgb(110, 200, 227);
+}
+.rowc{
+    height: 100px;
+    text-align: center;
+    padding: 70px;
+   color: aliceblue;
+    background-color: rgb(48, 176, 166);
+}
+#cc{
+   
+    text-align: center;
+    margin-top: 70px;
+    margin-left: 0;
+}
+.anchor{
+    height: 200px;
+    width: 200px;
+}
+.but{
+    padding: 10px;
+    background-color:white ;
+    color: black;
+    cursor: pointer;
+}
+#cd{
+    height: auto;
+    width: 100%;
+    display: flex;
+   justify-content: center;
+    margin-top: 50px;
+
+}
+#cdd{
+   
+    width: 500px;
+    background-color:rgb(110, 200, 227) ;
+    padding: 49px 80px;
+    color: aliceblue;   
+}
+/* #cde{
+   height: auto;
+   width: 800px;
+   
+} */
+.butc{
+    color: rgb(110, 200, 227);
+    background-color: aliceblue;
+    border-radius: 20px;
+    border-color: aliceblue;
+    padding: 5px;
+    cursor: pointer;
+}
+
+#ourser{
+    text-align: center;
+    margin-top: 50px;
+}
+#icona{
+    color: black;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+}
+.ica{
+    margin-left: 100px;
+}
+.icb{
+    margin-left: 100px;
+}
+.icc{
+    margin-left: 100px;
+}
+#ii{
+    padding: 20px;
+    border-radius: 35px;
+    color: aliceblue;
+    
+    background-color:rgb(110, 200, 227)  ;
+}
+#ll{
+    text-align: center;
+}
+#butl{
+   padding: 10px;
+   background-color: white;
+   border-color:rgb(110, 200, 227) ;
+   cursor: pointer;
+}
+#iccd{
+    display: flex;
+    justify-content: center;
+  
+    margin-top: 80px;
+}
+#iccda{
+    text-size-adjust: 100px;
+   padding-top: 68px;
+   padding-left: 150px;
+   padding-right: 150px;
+    text-align: center;
+    background-color: rgb(238, 234, 234);
+}
+/* #iccdb{
+    height: 400px;
+    width: 500px;
+ 
+
+
+} */
+#butm{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgb(110, 200, 227) ;
+    color: aliceblue;
+    border: none;
+    cursor: pointer;
+}
+
+#lastone{
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    background-color:  rgb(110, 200, 227);
+}
+#lastonea{
+    padding-top: 20px;
+    text-align: center;
+    padding-left: 30px;
+}
+#lastoneb{
+    background-color: rgb(110, 200, 227) ;
+    color: white;
+    padding-left: 600px;
+    padding-top: 40px;
+}
+#pppp{
+    padding-left: 30px;
+}
+#butkl{
+    background-color:white ;
+    color:rgb(110, 200, 227);
+    border-radius: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
+#nnnn{
+    text-align: center;
+}
+#foot{
+    padding-top: 40px;
+    height: 100px;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+#anchor{
+    text-decoration: none;
+}
+
+
